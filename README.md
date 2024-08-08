@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Martin and I'm a Data Analyst/Scientist from Germany</p>
+<p align="left">My name is Martin and I'm an enthusiastic and highly motivated Data Analyst/Scientist from Germany</p>
 
 ###
 
